@@ -1,0 +1,2 @@
+# learnjpa
+spring data jpa
